@@ -1,8 +1,13 @@
 {
   "files": {
-    "main.css": "/tokino-sora/static/css/main.fde5c8cb.css",
-    "main.js": "/tokino-sora/static/js/main.6488a7d7.js",
+    "main.css": "/tokino-sora/static/css/main.ea35430d.css",
+    "main.js": "/tokino-sora/static/js/main.e4304962.js",
+    "blueprint-icons-all-paths-loader.js": "/tokino-sora/static/js/blueprint-icons-all-paths-loader.13148b6c.chunk.js",
+    "blueprint-icons-split-paths-by-size-loader.js": "/tokino-sora/static/js/blueprint-icons-split-paths-by-size-loader.8dbfaf51.chunk.js",
     "static/js/488.d02afe6e.chunk.js": "/tokino-sora/static/js/488.d02afe6e.chunk.js",
+    "blueprint-icons-all-paths.js": "/tokino-sora/static/js/blueprint-icons-all-paths.21a9932c.chunk.js",
+    "blueprint-icons-16px-paths.js": "/tokino-sora/static/js/blueprint-icons-16px-paths.b8de74a3.chunk.js",
+    "blueprint-icons-20px-paths.js": "/tokino-sora/static/js/blueprint-icons-20px-paths.8f8b7831.chunk.js",
     "static/media/blueprint-icons-20.svg?": "/tokino-sora/static/media/blueprint-icons-20.07c183d4d13e54552a40.svg",
     "static/media/blueprint-icons-16.svg?": "/tokino-sora/static/media/blueprint-icons-16.9615668848f612ce65d8.svg",
     "static/media/home-sora.webp": "/tokino-sora/static/media/home-sora.0d438c9ee600adb31dcc.webp",
@@ -15,12 +20,17 @@
     "static/media/blueprint-icons-20.woff2?": "/tokino-sora/static/media/blueprint-icons-20.d1174bae77d070b192f9.woff2",
     "static/media/blueprint-icons-16.woff2?": "/tokino-sora/static/media/blueprint-icons-16.c27177d8793078d98d92.woff2",
     "index.html": "/tokino-sora/index.html",
-    "main.fde5c8cb.css.map": "/tokino-sora/static/css/main.fde5c8cb.css.map",
-    "main.6488a7d7.js.map": "/tokino-sora/static/js/main.6488a7d7.js.map",
-    "488.d02afe6e.chunk.js.map": "/tokino-sora/static/js/488.d02afe6e.chunk.js.map"
+    "main.ea35430d.css.map": "/tokino-sora/static/css/main.ea35430d.css.map",
+    "main.e4304962.js.map": "/tokino-sora/static/js/main.e4304962.js.map",
+    "blueprint-icons-all-paths-loader.13148b6c.chunk.js.map": "/tokino-sora/static/js/blueprint-icons-all-paths-loader.13148b6c.chunk.js.map",
+    "blueprint-icons-split-paths-by-size-loader.8dbfaf51.chunk.js.map": "/tokino-sora/static/js/blueprint-icons-split-paths-by-size-loader.8dbfaf51.chunk.js.map",
+    "488.d02afe6e.chunk.js.map": "/tokino-sora/static/js/488.d02afe6e.chunk.js.map",
+    "blueprint-icons-all-paths.21a9932c.chunk.js.map": "/tokino-sora/static/js/blueprint-icons-all-paths.21a9932c.chunk.js.map",
+    "blueprint-icons-16px-paths.b8de74a3.chunk.js.map": "/tokino-sora/static/js/blueprint-icons-16px-paths.b8de74a3.chunk.js.map",
+    "blueprint-icons-20px-paths.8f8b7831.chunk.js.map": "/tokino-sora/static/js/blueprint-icons-20px-paths.8f8b7831.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fde5c8cb.css",
-    "static/js/main.6488a7d7.js"
+    "static/css/main.ea35430d.css",
+    "static/js/main.e4304962.js"
   ]
 }
