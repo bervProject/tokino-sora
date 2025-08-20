@@ -1224,20 +1224,20 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@blueprintjs/colors@^5.1.8":
-  version "5.1.8"
-  resolved "https://registry.yarnpkg.com/@blueprintjs/colors/-/colors-5.1.8.tgz#241bed7d51f2e1fa216e9281ef1a362c27a36da2"
-  integrity sha512-rCl+NZwR6xjJeCB6yWglbqWU2zOdVgeI5unBASalzMXWpRO0UXIjx0pA/Vtii4cB2kIdk8PaHTlGmZnLTu/MSg==
+"@blueprintjs/colors@^5.1.9":
+  version "5.1.9"
+  resolved "https://registry.yarnpkg.com/@blueprintjs/colors/-/colors-5.1.9.tgz#9b14e6181ac89b487c56a62b4cc82ce32cb33f8c"
+  integrity sha512-gk9nlb2tc1qBK/BpVHkC0KQSAmd9PnF60D0iCDEyyh1R/3UzwhTYUvw9Q0XMLfFInNeVAbfsIbko41BmLptAaA==
   dependencies:
     tslib "~2.6.2"
 
-"@blueprintjs/core@^6.1.0":
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/@blueprintjs/core/-/core-6.1.0.tgz#94d9cce06aa5f267339dbd8a09dff83216e95e4d"
-  integrity sha512-ltsZ9qJwn8TFOPAXA7/5aV8k+aSQX2WYamZPGTIUzXJO18RCO0NsnpPTfq36GiTxumKZjdT3W56iP2Q2n9gsOw==
+"@blueprintjs/core@^6.2.0":
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/@blueprintjs/core/-/core-6.2.0.tgz#7babe5b4dc5412f9bc757b7d6134da5548826b93"
+  integrity sha512-Dwrsabd1Oc7yXbXIW9e8Vn63AR/iBMSBtB1vdO9WcGMFaPn69NbWjWHfiM09kEIl5HQIABW9BUoBQ1+et6kFtw==
   dependencies:
-    "@blueprintjs/colors" "^5.1.8"
-    "@blueprintjs/icons" "^6.0.0"
+    "@blueprintjs/colors" "^5.1.9"
+    "@blueprintjs/icons" "^6.1.0"
     "@popperjs/core" "^2.11.8"
     classnames "^2.3.1"
     normalize.css "^8.0.1"
@@ -1246,7 +1246,7 @@
     tslib "~2.6.2"
     use-sync-external-store "^1.2.0"
 
-"@blueprintjs/icons@^6.0.0", "@blueprintjs/icons@^6.1.0":
+"@blueprintjs/icons@^6.1.0":
   version "6.1.0"
   resolved "https://registry.yarnpkg.com/@blueprintjs/icons/-/icons-6.1.0.tgz#6213027f7517fdd305ec6b5a61f8879aca8569a5"
   integrity sha512-FvARNeJGvQPwewtKBB/8jYAj1xQFXFf34/SSdpDxZGhAeEf98NdUHilsel3M2wT/FPNWJCKhDHSND4sDgpMr+A==
