@@ -16,7 +16,7 @@ function App() {
       <body>
         <h2 className="b4-heading">
           <a href="https://www.youtube.com/@TokinoSora">
-            <Icon intent="danger" icon="video" iconSize={32} />
+            <Icon intent="danger" icon="video" size={32} />
           </a>
           <p>Current Livestream</p>
         </h2>
