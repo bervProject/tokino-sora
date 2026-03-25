@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@blueprintjs/core": "^6.10.0",
-    "@blueprintjs/icons": "^6.7.0",
+    "@blueprintjs/icons": "^6.8.0",
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.2",
     "@testing-library/user-event": "^14.6.1",
