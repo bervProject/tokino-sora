@@ -1109,13 +1109,13 @@
   dependencies:
     tslib "~2.6.2"
 
-"@blueprintjs/core@^6.12.0":
-  version "6.12.0"
-  resolved "https://registry.yarnpkg.com/@blueprintjs/core/-/core-6.12.0.tgz#3a2586c060dc50a02b07f2595f68a64c6af5d6a9"
-  integrity sha512-huBwfAU0/n4XG33C1xl4cWd/f+POtU11AL1wjTG/zWqyV4HRd57TE92z+SdioBbvCm6fmwEjNfjKAu1P1ojWxw==
+"@blueprintjs/core@^6.16.0":
+  version "6.16.0"
+  resolved "https://registry.yarnpkg.com/@blueprintjs/core/-/core-6.16.0.tgz#d126b8738f98e8d320020f433b28a69474f836c9"
+  integrity sha512-xVamwaXDsWxekKmfgx1RuS79V8vqAEn8rYdZLmTLbObZwrZ4Vj7sy/S0Qri5wMid4hVYncSExlXcurWvHoRgrA==
   dependencies:
     "@blueprintjs/colors" "^5.1.16"
-    "@blueprintjs/icons" "^6.9.0"
+    "@blueprintjs/icons" "^6.11.0"
     "@floating-ui/react" "^0.27.13"
     "@popperjs/core" "^2.11.8"
     classnames "^2.3.1"
@@ -1123,12 +1123,11 @@
     react-popper "^2.3.0"
     react-transition-group "^4.4.5"
     tslib "~2.6.2"
-    use-sync-external-store "^1.2.0"
 
-"@blueprintjs/icons@^6.9.0", "@blueprintjs/icons@^6.9.1":
-  version "6.9.1"
-  resolved "https://registry.yarnpkg.com/@blueprintjs/icons/-/icons-6.9.1.tgz#c40b4af5f5760fe50bc7994bd2d713f7f73d5ee0"
-  integrity sha512-Zy4SY0jDaUoDJ9nMUM5PVaAuZx1ViQbEgaXElySb4MOdhxJMM97OY2YKL6sdJspZOsPPsuBG2DABd81JU3GSdA==
+"@blueprintjs/icons@^6.11.0", "@blueprintjs/icons@^6.9.1":
+  version "6.11.0"
+  resolved "https://registry.yarnpkg.com/@blueprintjs/icons/-/icons-6.11.0.tgz#297b4b5a234b69adbd56bb8bd56bac24dbd758c7"
+  integrity sha512-LKNsI2ukS+Q/cRlghzdQcEVHu8tdTw+aXtgjSqecjxOcnjy+mItcMR5DCdwTHMMejEtrFNTwAlrvsz9MFYc1iA==
   dependencies:
     change-case "^4.1.2"
     classnames "^2.3.1"
@@ -9473,11 +9472,6 @@ url-parse@^1.5.3:
   dependencies:
     querystringify "^2.1.1"
     requires-port "^1.0.0"
-
-use-sync-external-store@^1.2.0:
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/use-sync-external-store/-/use-sync-external-store-1.6.0.tgz#b174bfa65cb2b526732d9f2ac0a408027876f32d"
-  integrity sha512-Pp6GSwGP/NrPIrxVFAIkOQeyw8lFenOHijQWkUTrDvrF4ALqylP2C/KCkeS9dpUM3KvYRQhna5vt7IL95+ZQ9w==
 
 util-deprecate@^1.0.1, util-deprecate@^1.0.2, util-deprecate@~1.0.1:
   version "1.0.2"

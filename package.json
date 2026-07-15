@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@blueprintjs/core": "^6.12.0",
+    "@blueprintjs/core": "^6.16.0",
     "@blueprintjs/icons": "^6.9.1",
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
