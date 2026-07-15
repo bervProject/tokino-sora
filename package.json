@@ -14,7 +14,7 @@
     "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
     "react": "^19.2.7",
-    "react-dom": "^19.2.5",
+    "react-dom": "^19.2.7",
     "react-scripts": "5.0.1",
     "typescript": "^6.0.3",
     "web-vitals": "^5.2.0"
